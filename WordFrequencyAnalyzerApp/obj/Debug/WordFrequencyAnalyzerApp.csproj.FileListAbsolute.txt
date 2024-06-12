@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\bin\Debug\WordFrequencyAnalyzerApp.exe.config
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\bin\Debug\WordFrequencyAnalyzerApp.exe
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\bin\Debug\WordFrequencyAnalyzerApp.pdb
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\bin\Debug\WordFrequencyAnalyzerLibrary.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\bin\Debug\WordFrequencyAnalyzerLibrary.pdb
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\obj\Debug\WordFrequencyAnalyzerApp.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\obj\Debug\WordFrequencyAnalyzerApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\obj\Debug\WordFrequencyAnalyzerApp.csproj.CopyComplete
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\obj\Debug\WordFrequencyAnalyzerApp.exe
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerApp\obj\Debug\WordFrequencyAnalyzerApp.pdb

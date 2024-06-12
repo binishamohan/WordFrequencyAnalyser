@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerLibrary\bin\Debug\WordFrequencyAnalyzerLibrary.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerLibrary\bin\Debug\WordFrequencyAnalyzerLibrary.pdb
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerLibrary\obj\Debug\WordFrequencyAnalyzerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerLibrary\obj\Debug\WordFrequencyAnalyzerLibrary.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerLibrary\obj\Debug\WordFrequencyAnalyzerLibrary.pdb

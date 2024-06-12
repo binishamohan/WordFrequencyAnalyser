@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\WordFrequencyAnalyzerMSTest.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\WordFrequencyAnalyzerMSTest.pdb
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\WordFrequencyAnalyzerLibrary.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\WordFrequencyAnalyzerLibrary.pdb
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\obj\Debug\WordFrequencyAnalyzerMSTest.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\obj\Debug\WordFrequencyAnalyzerMSTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\obj\Debug\WordFrequencyAnalyzerMSTest.csproj.CopyComplete
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\obj\Debug\WordFrequencyAnalyzerMSTest.dll
+C:\Users\USER\source\repos\WordFrequencyAnalyzerLibrary\WordFrequencyAnalyzerMSTest\obj\Debug\WordFrequencyAnalyzerMSTest.pdb
